@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-voronoi-treemap-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-voronoi-treemap-initiative/actions/workflows/publish.yml)
+
 learning-voronoi-treemap-initiative
 # Learning Voronoi Treemap - Initiative
 
